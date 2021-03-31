@@ -15,7 +15,7 @@
     </style>
 </head>
 <body>
-<h1>ETHIOPIA</h1>
+<h1 style="color: gold;">ETHIOPIA</h1>
 <h2>Basic info about ETHIOPIA</h2>
 <p>ETHIOPIA Is a country found in East Africa.It is a country with more than 80 nations and nationalities.It is also a country with ancient civilization.
 </p>
